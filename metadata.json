@@ -1,0 +1,6 @@
+{
+  "name": "مالي",
+  "description": "مدير الأموال الشخصية والادخار الذكي باللغة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
